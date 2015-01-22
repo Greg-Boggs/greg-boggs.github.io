@@ -5,7 +5,7 @@ prose:
   rooturl: ''
   siteurl: 'http://greg-boggs.github.io/'
   relativeLinks: 'http://greg-boggs.github.io/links.jsonp'
-  media: 'media'
+  media: 'images'
   metadata:
     _posts:
       - name: "category"
