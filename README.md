@@ -1,2 +1,2 @@
 # gregboggs.com
-GregBoggs.com - static site playground
+http://www.GregBoggs.com - static site playground
